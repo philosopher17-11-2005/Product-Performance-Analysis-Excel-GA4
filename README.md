@@ -1,7 +1,7 @@
 # Product-Performance-Analysis-Excel-GA4
 
 ## Project Overview
-This project analyzes product performance using Advanced Excel. The objective is to identify top-performing products, sales trends, revenue contribution, and profitability insights.
+This project is an Interactive Excel Dashboard built to analyze e-commerce sales and customer purchasing behavior. The dashboard provides insights into revenue generation, purchased items, and cart activity through dynamic visualizations.
 
 ## Objectives
 - Analyze product sales performance
@@ -24,12 +24,21 @@ This project analyzes product performance using Advanced Excel. The objective is
 - Profit Margin
 - Product-wise Performance
 
-## Project Structure
+## Key Insights
+- Top 10 Revenue Generating Items
+- Top 10 Purchased Items
+- Top 10 Added to Cart Items
+- Sales Performance Analysis
 
-Data/
+## Project Structure
 Dashboard/
+Data/
 Screenshots/
+LICENSE
 README.md
+
+## Dashboard Screenshots
+Screenshots are available in the Screenshots folder.
 
 ## Author
 Varun Dalmia
